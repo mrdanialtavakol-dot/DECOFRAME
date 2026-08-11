@@ -1,0 +1,21 @@
+﻿# DECOFRAME — Audience Journey
+
+DISCOVER
+↓
+INTEREST
+↓
+WATCH
+↓
+LEARN
+↓
+TRY
+↓
+RETURN
+↓
+TRUST
+↓
+PARTICIPATE
+↓
+COMMUNITY
+↓
+CREATOR
